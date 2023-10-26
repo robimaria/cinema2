@@ -16,7 +16,80 @@ const movies = [
         releaseDate: "15 de Setembro, 2023",
         price: 10.99,
         availableTickets: 100
+    },
+    {
+        name: "O Filme 3",
+        image: "URL_da_imagem_3.jpg",
+        date: "10 de Novembro, 2023",
+        inTheaters: true,
+        releaseDate: "25 de Outubro, 2023",
+        price: 11.99,
+        availableTickets: 120
+    },
+    {
+        name: "O Filme 4",
+        image: "URL_da_imagem_4.jpg",
+        date: "15 de Novembro, 2023",
+        inTheaters: true,
+        releaseDate: "1 de Novembro, 2023",
+        price: 9.99,
+        availableTickets: 90
+    },
+    {
+        name: "O Filme 5",
+        image: "URL_da_imagem_5.jpg",
+        date: "20 de Novembro, 2023",
+        inTheaters: true,
+        releaseDate: "5 de Novembro, 2023",
+        price: 12.99,
+        availableTickets: 150
+    },
+    {
+        name: "O Filme 6",
+        image: "URL_da_imagem_6.jpg",
+        date: "25 de Novembro, 2023",
+        inTheaters: true,
+        releaseDate: "10 de Novembro, 2023",
+        price: 10.99,
+        availableTickets: 100
+    },
+    {
+        name: "O Filme 7",
+        image: "URL_da_imagem_7.jpg",
+        date: "30 de Novembro, 2023",
+        inTheaters: true,
+        releaseDate: "15 de Novembro, 2023",
+        price: 11.99,
+        availableTickets: 120
+    },
+    {
+        name: "O Filme 8",
+        image: "URL_da_imagem_8.jpg",
+        date: "5 de Dezembro, 2023",
+        inTheaters: true,
+        releaseDate: "20 de Novembro, 2023",
+        price: 9.99,
+        availableTickets: 90
+    },
+    {
+        name: "O Filme 9",
+        image: "URL_da_imagem_9.jpg",
+        date: "10 de Dezembro, 2023",
+        inTheaters: true,
+        releaseDate: "25 de Novembro, 2023",
+        price: 12.99,
+        availableTickets: 150
+    },
+    {
+        name: "O Filme 10",
+        image: "URL_da_imagem_10.jpg",
+        date: "15 de Dezembro, 2023",
+        inTheaters: true,
+        releaseDate: "1 de Dezembro, 2023",
+        price: 10.99,
+        availableTickets: 100
     }
+
 ];
 
 const movieList = document.getElementById("movie-list");
