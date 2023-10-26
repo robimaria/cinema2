@@ -19,7 +19,7 @@ const movies = [
     },
     {
         name: "O Filme 3",
-        image: "URL_da_imagem_3.jpg",
+        image: "https://www.kinoplex.com.br/filmes/images/cartaz/262x388/five-nights-at-freddys-o-pesadelo-sem-fim.jpg",
         date: "10 de Novembro, 2023",
         inTheaters: true,
         releaseDate: "25 de Outubro, 2023",
@@ -28,7 +28,7 @@ const movies = [
     },
     {
         name: "O Filme 4",
-        image: "URL_da_imagem_4.jpg",
+        image: "https://br.web.img2.acsta.net/medias/nmedia/18/97/04/22/20504502.jpg",
         date: "15 de Novembro, 2023",
         inTheaters: true,
         releaseDate: "1 de Novembro, 2023",
@@ -37,7 +37,7 @@ const movies = [
     },
     {
         name: "O Filme 5",
-        image: "URL_da_imagem_5.jpg",
+        image: "https://m.media-amazon.com/images/M/MV5BMjVkZjM4MWYtMTg2Ny00NDBkLTk2MTktNTFiYTJiNmJhY2ZmXkEyXkFqcGdeQXVyMjAyNDg4NzI@._V1_.jpg",
         date: "20 de Novembro, 2023",
         inTheaters: true,
         releaseDate: "5 de Novembro, 2023",
@@ -46,7 +46,7 @@ const movies = [
     },
     {
         name: "O Filme 6",
-        image: "URL_da_imagem_6.jpg",
+        image: "https://www.kinoplex.com.br/filmes/images/cartaz/262x388/elementos.jpg?1669850526",
         date: "25 de Novembro, 2023",
         inTheaters: true,
         releaseDate: "10 de Novembro, 2023",
@@ -55,7 +55,7 @@ const movies = [
     },
     {
         name: "O Filme 7",
-        image: "URL_da_imagem_7.jpg",
+        image: "https://www.claquete.com.br/fotos/filmes/poster/14281_grande.jpg",
         date: "30 de Novembro, 2023",
         inTheaters: true,
         releaseDate: "15 de Novembro, 2023",
@@ -64,7 +64,7 @@ const movies = [
     },
     {
         name: "O Filme 8",
-        image: "URL_da_imagem_8.jpg",
+        image: "https://br.web.img3.acsta.net/c_310_420/pictures/23/06/14/20/35/4946834.png",
         date: "5 de Dezembro, 2023",
         inTheaters: true,
         releaseDate: "20 de Novembro, 2023",
@@ -73,7 +73,7 @@ const movies = [
     },
     {
         name: "O Filme 9",
-        image: "URL_da_imagem_9.jpg",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMRSQWIxUrgVhiSg_aihcx16AZ9UxaaHRgSQ&usqp=CAU",
         date: "10 de Dezembro, 2023",
         inTheaters: true,
         releaseDate: "25 de Novembro, 2023",
@@ -82,7 +82,7 @@ const movies = [
     },
     {
         name: "O Filme 10",
-        image: "URL_da_imagem_10.jpg",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbnhTcWbEgmCUlfsAD_8gLRJwN0i5fW0eo6g&usqp=CAU",
         date: "15 de Dezembro, 2023",
         inTheaters: true,
         releaseDate: "1 de Dezembro, 2023",
